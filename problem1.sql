@@ -9,3 +9,4 @@ UPDATE site_user
 SET lastname='Rush'
 WHERE id=2;
 */
+-- Reference: https://www.w3schools.com/sql/sql_update.asp
